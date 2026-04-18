@@ -18,7 +18,7 @@ Wordle is a web_based word game created and developed by the Welsh software engi
 
 ```bash
 git clone [https://github.com/SadCloud03/Wordle-.git](https://github.com/SadCloud03/Wordle-.git)
-cd WORDLE-
+cd Wordle-
 ```
 
 2. **Execute the file**
